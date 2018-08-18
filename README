@@ -1,0 +1,11 @@
+OpenCV is an Open Source Library based on Computer Vision Process 
+which is contained with functions for accessing and manipulating 
+raw image data from the device camera.
+
+The project is to capture image frames from the device camera 
+and capture one of the frame with respect to user's input and store 
+it in a JPEG format.
+
+KEYS :
+	SpaceBar => Capture
+	Ctrl + C => Exit
